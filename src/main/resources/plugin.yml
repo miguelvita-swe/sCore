@@ -1,0 +1,26 @@
+name: sCore
+version: 1.0.0
+main: br.com.skyy.core.SCorePlugin
+api-version: "1.13"
+author: Skyy
+description: Core library para a suite de plugins s(nome).
+
+softdepend:
+  - Vault
+  - PlaceholderAPI
+  - Citizens
+  - DecentHolograms
+  - HolographicDisplays
+  - PlayerPoints
+
+commands:
+  score:
+    description: Administração do sCore em runtime.
+    usage: /score <reload|status|db|economy>
+    permission: score.admin
+    aliases: [scoreadmin]
+
+permissions:
+  score.admin:
+    description: Acesso aos comandos de administração do sCore.
+    default: op

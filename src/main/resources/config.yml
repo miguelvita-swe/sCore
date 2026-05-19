@@ -1,0 +1,17 @@
+# sCore Configuration
+
+# Database settings
+Database:
+  Tipo: SQLITE       # SQLITE ou MYSQL
+  Host: localhost
+  Port: 3306
+  Database: score
+  User: root
+  Password: ''
+
+Debug: false
+
+# Economy default provider
+# Options: money (Vault), playerpoints
+economy:
+  default: money
