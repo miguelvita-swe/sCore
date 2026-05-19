@@ -184,7 +184,7 @@ Requer Java 8+. O JAR gerado em `target/sCore-1.0.0.jar` é copiado para `plugin
 
 ## 👤 Autor
 
-**Skyy** — Suite de plugins "s" para Minecraft
+**Skyy**
 
 ---
 
