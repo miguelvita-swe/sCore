@@ -11,8 +11,6 @@ Ele não é um plugin jogável — é uma **biblioteca de compatibilidade** que 
 | Plugin | Descrição |
 |---|---|
 | **sCore** | Núcleo — providers, API, database, menus |
-| **sMaquinas** | Máquinas que geram drops ao consumir combustível |
-| **sEconomia** | Sistema de economia customizada *(em desenvolvimento)* |
 
 ---
 
